@@ -13137,11 +13137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SShinde\\Source\\repos\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS.csproj",
+      "projectUniqueName": "C:\\Users\\SShinde\\Source\\repos\\GitHubPrivateRepo\\CoreWebApi\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS.csproj",
       "projectName": "SwaggerwebAPIIIS",
-      "projectPath": "C:\\Users\\SShinde\\Source\\repos\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS.csproj",
+      "projectPath": "C:\\Users\\SShinde\\Source\\repos\\GitHubPrivateRepo\\CoreWebApi\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS.csproj",
       "packagesPath": "C:\\Users\\SShinde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SShinde\\Source\\repos\\SwaggerwebAPIIIS\\SwaggerwebAPIIIS\\obj\\",
+      "outputPath": "C:\\Users\\SShinde\\Source\\repos\\GitHubPrivateRepo\\CoreWebApi\\SwaggerwebAPIIIS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
