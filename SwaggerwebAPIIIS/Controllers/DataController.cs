@@ -23,7 +23,7 @@ namespace SwaggerwebAPIIIS.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return "Data getting from Github";
         }
     }
 }

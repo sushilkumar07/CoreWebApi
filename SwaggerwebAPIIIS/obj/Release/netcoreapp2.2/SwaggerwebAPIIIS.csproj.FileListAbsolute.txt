@@ -12,3 +12,17 @@ C:\Users\SShinde\Source\repos\SwaggerwebAPIIIS\SwaggerwebAPIIIS\obj\Release\netc
 C:\Users\SShinde\Source\repos\SwaggerwebAPIIIS\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.RazorTargetAssemblyInfo.cache
 C:\Users\SShinde\Source\repos\SwaggerwebAPIIIS\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.dll
 C:\Users\SShinde\Source\repos\SwaggerwebAPIIIS\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.pdb
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\bin\Release\netcoreapp2.2\SwaggerwebAPIIIS.deps.json
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\bin\Release\netcoreapp2.2\SwaggerwebAPIIIS.runtimeconfig.json
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\bin\Release\netcoreapp2.2\SwaggerwebAPIIIS.runtimeconfig.dev.json
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\bin\Release\netcoreapp2.2\SwaggerwebAPIIIS.dll
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\bin\Release\netcoreapp2.2\SwaggerwebAPIIIS.pdb
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.csprojAssemblyReference.cache
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.csproj.CoreCompileInputs.cache
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.RazorAssemblyInfo.cache
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.RazorAssemblyInfo.cs
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.AssemblyInfoInputs.cache
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.AssemblyInfo.cs
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.RazorTargetAssemblyInfo.cache
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.dll
+C:\Users\SShinde\Source\repos\GitHubPrivateRepo\CoreWebApi\SwaggerwebAPIIIS\obj\Release\netcoreapp2.2\SwaggerwebAPIIIS.pdb
